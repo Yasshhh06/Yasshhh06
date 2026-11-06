@@ -152,25 +152,7 @@ A collection of technical ideas and engineering problems I'm interested in explo
 
 ---
 
-## 05 / GitHub Analytics
-
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
-
-</div>
-
----
-
-## 06 / Currently Exploring
+## 05 / Currently Exploring
 
 ```text
 software-engineering/
@@ -194,7 +176,7 @@ software-engineering/
 
 ---
 
-## 07 / Engineering Philosophy
+## 06 / Engineering Philosophy
 
 > Good software is not defined by how many technologies it uses, but by how well it solves the problem it was built for.
 
@@ -204,21 +186,17 @@ I believe that understanding trade-offs is as important as choosing the right te
 
 ---
 
-## 08 / Connect
+## 07 / Connect
 
 <div align="center">
 
 Open to discussing software engineering, applied AI, open-source development, and interesting technical problems.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Yasshhh06">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohiteyash940@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
