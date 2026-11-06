@@ -21,7 +21,7 @@
 
 ---
 
-## 01 / About Me
+## About Me
 
 I'm **Yash Sunil Mohite**, a software developer with a focus on **full stack engineering and artificial intelligence**.
 
@@ -36,7 +36,7 @@ My interests extend beyond writing code. I care about how applications are struc
 
 ---
 
-## 02 / Technical Stack
+## Technical Stack
 
 <div align="center">
 
@@ -68,7 +68,7 @@ My interests extend beyond writing code. I care about how applications are struc
 
 ---
 
-## 03 / Engineering Focus
+## Engineering Focus
 
 <table>
 <tr>
@@ -135,7 +135,7 @@ Exploring deployment strategies, containerized applications, and engineering wor
 
 ---
 
-## 04 / Project Lab
+## Project Lab
 
 A collection of technical ideas and engineering problems I'm interested in exploring.
 
@@ -152,7 +152,7 @@ A collection of technical ideas and engineering problems I'm interested in explo
 
 ---
 
-## 05 / Currently Exploring
+## Currently Exploring
 
 ```text
 software-engineering/
@@ -176,7 +176,7 @@ software-engineering/
 
 ---
 
-## 06 / Engineering Philosophy
+## Engineering Philosophy
 
 > Good software is not defined by how many technologies it uses, but by how well it solves the problem it was built for.
 
@@ -186,7 +186,7 @@ I believe that understanding trade-offs is as important as choosing the right te
 
 ---
 
-## 07 / Connect
+## Connect
 
 <div align="center">
 
