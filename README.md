@@ -1,102 +1,73 @@
-
 # Hi 👋, I'm Yash Sunil Mohite
 
-### Founder & CEO | Tech Entrepreneur | Software Developer
+### Full Stack Developer | AI/ML Engineer | Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+at+DevTech+IT+Solution;Building+Innovative+Digital+Solutions;Software+Engineering+%7C+AI+%7C+Cloud;Empowering+the+Next+Generation+of+Developers;Dream.+Build.+Innovate.+Lead." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Artificial+Intelligence+%26+ML+Engineer;Building+Scalable+Web+Applications;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Yash Sunil Mohite**, a technology entrepreneur and software development enthusiast based in **India 🇮🇳**.
+I'm a Full Stack Developer and AI/ML enthusiast passionate about building scalable web applications, intelligent systems, and impactful software products.
 
-As the **Founder & CEO of DevTech IT Solution Pvt. Ltd.**, I focus on developing technology-driven solutions, building digital platforms, supporting engineering teams, and creating meaningful learning opportunities for aspiring IT professionals.
+- 🔭 Working on **AI-powered applications and scalable full stack platforms**
+- 🌱 Exploring **Generative AI, LLMs, RAG, MLOps and System Design**
+- 👯 Interested in **open-source collaboration and AI/ML research**
+- 💬 Ask me about **React, Next.js, Node.js, Python and Machine Learning**
+- ⚡ Fun fact: **I build applications that don't just work — they think, learn, and scale.**
 
-- 🔭 **Currently working on:** DevTech Workspace, DevTech Learn, and scalable digital platforms.
-- 🚀 **Leading:** DevTech IT Solution Pvt. Ltd.
-- 🌱 **Exploring:** Artificial Intelligence, Cloud Computing, DevOps, and Modern Software Architecture.
-- 👯 **Open to collaborating on:** Innovative software products, technology communities, hackathons, and open-source projects.
-- 💬 **Ask me about:** Software Development, Technology Entrepreneurship, Project Management, and Developer Communities.
-- 🎓 **Passionate about:** Technical Mentorship, Industry-Oriented Training, and Career Development.
-- 📫 **Reach me:** careers@devtechitsolution.com
-- 🌐 **Company:** https://devtechitsolution.com
-- ⚡ **My philosophy:** Dream. Build. Innovate. Lead.
+## 🛠️ Tech Stack
 
----
+**Languages & Frontend**
 
-## 🏢 Leadership & Initiatives
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,react,nextjs,tailwind" />
 
-### 🚀 DevTech IT Solution Pvt. Ltd.
-**Founder & Chief Executive Officer**
+**Backend & Databases**
 
-Building technology-driven products and services with a focus on software engineering, digital transformation, practical innovation, and technical talent development.
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,postgres,redis" />
 
-### 💻 DevTech Workspace
-An internal digital workspace initiative focused on internship operations, task management, attendance, learning activities, and team coordination.
+**AI/ML & Data Science**
 
-### 📚 DevTech Learn
-A technology learning initiative focused on structured curricula, practical skills, and industry-oriented development.
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 
-### 🤝 Community & Developer Engagement
-Interested in bringing developers together through hackathons, technology events, workshops, collaborative learning, and mentorship.
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,postman,vscode" />
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Project Ideas & Areas of Interest
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,aws,docker,git,github,linux,vscode,figma,postman&perline=8" alt="Technology Stack" />
-</p>
-
-**Core Interests:** Full Stack Development • AI/ML • Cloud & DevOps • Software Architecture • Automation • Technical Leadership
-
----
-
-## 🚀 Featured Initiatives
-
-| Initiative | Focus |
+| Project | Technologies |
 |---|---|
-| **DevTech IT Solution** | Software Solutions & Technology Innovation |
-| **DevTech Workspace** | Internship & Team Management Platform |
-| **DevTech Learn** | Technical Learning & Skill Development |
-| **Developer Communities** | Hackathons, Workshops & Collaboration |
+| AI-Powered SaaS Analytics | Next.js, Python, PostgreSQL |
+| Intelligent RAG Chatbot | LangChain, FastAPI, React |
+| Financial Fraud Detection | Python, Scikit-learn, XGBoost |
+| Full Stack E-Commerce | MERN Stack, JWT, Redux |
+| AI Resume Screening | NLP, Transformers, FastAPI |
+| Cloud-Native Microservices | Node.js, Docker, Kubernetes |
+
+> These are project concepts and areas of interest, not a list of completed projects.
 
 ---
 
-## 📊 GitHub Statistics
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, founders, engineering professionals, mentors, and technology enthusiasts.
+Open to collaborating on Full Stack Development, Artificial Intelligence, Machine Learning and innovative software engineering projects.
 
-- 🌐 Website: https://devtechitsolution.com
-- 📧 Email: careers@devtechitsolution.com
-- 💼 LinkedIn: Add your profile URL
-- 🐙 GitHub: Add your profile URL
-
----
-
-<p align="center">
-  <b>Building Technology. Empowering Talent. Creating Impact.</b>
-</p>
-
-<p align="center">
-  <i>Dream. Build. Innovate. Lead.</i>
-</p>
-  
+**Code. Build. Learn. Innovate.**
