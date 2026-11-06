@@ -52,20 +52,6 @@ I'm a Full Stack Developer and AI/ML enthusiast passionate about building scalab
 > These are project concepts and areas of interest, not a list of completed projects.
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 Open to collaborating on Full Stack Development, Artificial Intelligence, Machine Learning and innovative software engineering projects.
